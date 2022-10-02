@@ -1,0 +1,41 @@
+hr+p{
+    text-decoration: underline 2px solid red;
+}
+
+#fdBox{
+    width: 50%;
+ 
+    padding: 20px;
+}
+#fdBox>input{
+    width: 100%;
+    height: 35px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+#fdBox>select{
+    width: 101%;
+    height: 35px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+#fdBox>textarea{
+    width: 100%;
+    
+}
+#fdBox>p{
+    margin-bottom: 2px;
+    color: grey;
+    margin-top: 30px;
+}
+#fdBox>.button{
+    background-color: 
+    #565050;
+    font-weight: bolder;
+    color: white;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 2px 3px 2px;
+    width: 80px;
+}
